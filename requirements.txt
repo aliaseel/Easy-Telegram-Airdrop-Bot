@@ -6,3 +6,4 @@ telegram==0.0.1
 cryptography==3.1.1
 pymongo[srv]
 cryptography==3.3.2
+python-3.12.4
